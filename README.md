@@ -1,0 +1,2 @@
+# foodli
+🥐 The food CLI
